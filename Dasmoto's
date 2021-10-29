@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+          h1 {background-image: url("Resources/Images/pattern.jpeg");}
+        </style>
+        <title>Dasmoto's Arts & Crafts</title>
+   
+    </head>
+    <body>
+        <h1>Dasmoto's Arts & Crafts</h1>
+   
+    </body>
+  </html>
